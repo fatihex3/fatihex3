@@ -1,113 +1,68 @@
 <div align="center">
 
-# B73 DIGITAL STUDIO
+<br>
 
-### Web Development · AI Systems · Automation
+# B73
 
-Building digital products, internal tools and experimental AI systems.
+### DIGITAL STUDIO
 
-[![Website](https://img.shields.io/badge/b73.dev-Visit_B73-9BE15D?style=for-the-badge&labelColor=111111)](https://b73.dev)
-[![Lead Radar](https://img.shields.io/badge/Lead_Radar-GitHub-9BE15D?style=for-the-badge&labelColor=111111)](https://github.com/fatihex3/b73-lead-radar)
+**Web Development · AI Systems · Automation**
+
+<br>
+
+[![Website](https://img.shields.io/badge/B73.DEV-OPEN_STUDIO-A6FF4D?style=for-the-badge&labelColor=0B0B0B)](https://b73.dev)
+[![Lead Radar](https://img.shields.io/badge/LEAD_RADAR-VIEW_PROJECT-A6FF4D?style=for-the-badge&labelColor=0B0B0B)](https://github.com/fatihex3/b73-lead-radar)
+
+<br>
+
+`BUILD` &nbsp; `TEST` &nbsp; `SHIP` &nbsp; `ITERATE`
+
+<br>
 
 </div>
 
 ---
 
-## Selected Work
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### B73 Digital Studio
+## B73 Digital Studio
 
-Web design and development studio focused on clean, responsive and commercially useful digital products.
+B73 is my web and software studio.
 
-**Focus**
+I work across:
 
-`Web Design` `Development` `Responsive UI` `Accessibility`
+- responsive business websites
+- landing pages
+- WordPress
+- frontend development
+- accessibility-focused improvements
+- internal tools
+- API integrations
+- AI-assisted systems
 
-[Visit b73.dev →](https://b73.dev)
+The goal is simple:
 
-</td>
+**build useful products without unnecessary complexity.**
 
-<td width="50%" valign="top">
-
-### 🛰 B73 Lead Radar
-
-AI-assisted lead monitoring and qualification pipeline.
-
-Built around:
-
-`Python` `SQLite` `Telegram` `NVIDIA NIM` `Nemotron`
-
-The system collects structured opportunities, removes duplicates, evaluates buyer intent and surfaces relevant leads through Telegram.
-
-[View repository →](https://github.com/fatihex3/b73-lead-radar)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### HERMES
-
-AI system developed as part of the B73 experimental AI stack.
-
-Current work focuses on building a stable, modular AI application architecture and refining the interaction layer around the model.
-
-`AI` `LLM` `Application Architecture` `Experimental`
-
-**Status:** Private development
+[Visit B73 →](https://b73.dev)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### ANUBIS
+## Currently Building
 
-Experimental AI and data infrastructure project focused on corpus preparation and future model development.
-
-ANUBIS is being developed separately from HERMES with its own data and model pipeline.
-
-`AI Infrastructure` `Data Pipeline` `Corpus Engineering` `LLM Research`
-
-**Status:** Private development
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Ebaysal
-
-Commercial website project designed and developed for a logistics business.
-
-Focused on clear presentation, responsive layouts and a direct path from company information to contact.
-
-`Web Development` `Responsive Design` `Business Website`
-
-[Visit project →](https://ebaysal.com)
-
-</td>
-
-<td width="50%" valign="top">
-
-### B73 Labs
-
-A home for experiments that sit between client work and product development.
-
-Current areas include:
-
-- AI-assisted business tools
-- automation
-- accessibility
-- internal developer tooling
-- model experimentation
-
-`R&D` `Automation` `AI` `Prototyping`
+```text
+B73
+├── Client Websites
+├── Lead Radar
+├── HERMES
+├── ANUBIS
+├── Accessibility
+└── Internal Tools
+```
 
 </td>
 </tr>
@@ -115,84 +70,320 @@ Current areas include:
 
 ---
 
-## What I Build
+# FEATURED SYSTEMS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🛰 B73 Lead Radar
+
+AI-assisted lead monitoring and qualification system.
+
+### Pipeline
+
+```text
+SOURCE
+  ↓
+COLLECT
+  ↓
+NORMALIZE
+  ↓
+DEDUP
+  ↓
+SQLITE
+  ↓
+NEMOTRON
+  ↓
+TELEGRAM
+```
+
+### Stack
+
+`Python` `SQLite` `Telegram` `NVIDIA NIM` `Nemotron`
+
+### What it does
+
+- collects structured opportunities
+- prevents duplicates
+- evaluates buyer intent
+- scores commercial relevance
+- surfaces opportunities through Telegram
+- supports modular collectors
+
+[View repository →](https://github.com/fatihex3/b73-lead-radar)
+
+</td>
+
+<td width="50%" valign="top">
+
+## ◈ HERMES
+
+Private experimental AI system.
+
+HERMES is being developed as a modular AI application with emphasis on:
+
+- stable architecture
+- model interaction
+- application UX
+- local / remote AI workflows
+- maintainable system design
+
+```text
+STATUS
+Private Development
+```
+
+### Focus
+
+`AI` `LLM` `Application Architecture` `Automation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## ⬡ ANUBIS
+
+Experimental AI infrastructure and data project.
+
+ANUBIS is developed separately from HERMES and focuses on:
+
+- corpus preparation
+- tokenizer research
+- dataset pipelines
+- model training infrastructure
+- future base-model development
+
+```text
+STATUS
+Private Research & Development
+```
+
+### Focus
+
+`AI Infrastructure` `Corpus Engineering` `Data Pipelines` `LLM Research`
+
+</td>
+
+<td width="50%" valign="top">
+
+## ◉ B73 Labs
+
+Experiments that sit between client work and product development.
+
+Current areas:
+
+- AI-assisted workflows
+- automation
+- accessibility tooling
+- developer tools
+- internal business systems
+- model experiments
+
+### Philosophy
+
+```text
+prototype
+measure
+simplify
+ship
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# SELECTED WEB WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## B73.dev
+
+Studio website and commercial portfolio.
+
+### Focus
+
+`UI` `Responsive Design` `Accessibility` `Conversion`
+
+[Open website →](https://b73.dev)
+
+</td>
+
+<td width="50%" valign="top">
+
+## Ebaysal
+
+Commercial website built for a logistics business.
+
+### Focus
+
+`Business Website` `Responsive UI` `Content Structure`
+
+[Open project →](https://ebaysal.com)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## Saffron
+
+Selected web design project.
+
+`Web Design` `Responsive UI`
+
+</td>
+
+<td width="50%" valign="top">
+
+## Galeria / Obsidian / Velora
+
+Selected visual and web interface projects from the B73 portfolio.
+
+`UI Design` `Frontend` `Visual Systems`
+
+</td>
+</tr>
+</table>
+
+---
+
+# WHAT I BUILD
 
 ```text
 WEB
-├─ Business websites
-├─ Landing pages
-├─ Responsive interfaces
-├─ WordPress
-└─ Accessibility-focused improvements
+│
+├── Business Websites
+├── Landing Pages
+├── WordPress
+├── Responsive Interfaces
+├── Frontend Development
+└── Accessibility Improvements
+
 
 SOFTWARE
-├─ Python tools
-├─ Internal automation
-├─ API integrations
-├─ Telegram bots
-└─ Data pipelines
+│
+├── Python Tools
+├── Telegram Bots
+├── API Integrations
+├── Data Pipelines
+├── Automation
+└── Internal Systems
+
 
 AI
-├─ LLM integrations
-├─ NVIDIA NIM
-├─ AI-assisted workflows
-├─ Model experimentation
-└─ Corpus / data infrastructure
+│
+├── LLM Integrations
+├── NVIDIA NIM
+├── Nemotron
+├── AI Workflows
+├── Corpus Engineering
+└── Model Experiments
 ```
 
 ---
 
-## Tech
+# STACK
 
-<p align="center">
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=9BE15D)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=9BE15D)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=9BE15D)
-![WordPress](https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=9BE15D)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=9BE15D)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=9BE15D)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=9BE15D)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-111111?style=for-the-badge&logo=nvidia&logoColor=9BE15D)
+![Python](https://img.shields.io/badge/PYTHON-0B0B0B?style=for-the-badge&logo=python&logoColor=A6FF4D)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0B0B0B?style=for-the-badge&logo=javascript&logoColor=A6FF4D)
+![Node.js](https://img.shields.io/badge/NODE.JS-0B0B0B?style=for-the-badge&logo=nodedotjs&logoColor=A6FF4D)
+![WordPress](https://img.shields.io/badge/WORDPRESS-0B0B0B?style=for-the-badge&logo=wordpress&logoColor=A6FF4D)
 
-</p>
+![SQLite](https://img.shields.io/badge/SQLITE-0B0B0B?style=for-the-badge&logo=sqlite&logoColor=A6FF4D)
+![Git](https://img.shields.io/badge/GIT-0B0B0B?style=for-the-badge&logo=git&logoColor=A6FF4D)
+![Linux](https://img.shields.io/badge/LINUX-0B0B0B?style=for-the-badge&logo=linux&logoColor=A6FF4D)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-0B0B0B?style=for-the-badge&logo=nvidia&logoColor=A6FF4D)
 
----
-
-## Current Projects
-
-**B73 Digital Studio**  
-Client-facing web design and development.
-
-**B73 Lead Radar**  
-AI-assisted commercial opportunity qualification.
-
-**HERMES**  
-Private experimental AI application.
-
-**ANUBIS**  
-Private AI data and model infrastructure project.
+</div>
 
 ---
 
-## Principles
+# ENGINEERING PRINCIPLES
 
 ```text
-Build useful things.
-Keep systems understandable.
-Prefer reliability over unnecessary complexity.
-Measure before optimizing.
-Ship, test, improve.
+01  Reliability before complexity
+
+02  Clear systems before clever systems
+
+03  Measure before optimizing
+
+04  Keep ownership and infrastructure understandable
+
+05  Ship → test → improve
+
+06  AI is a tool, not an excuse for bad engineering
 ```
+
+---
+
+# CURRENT FOCUS
+
+<table>
+<tr>
+<td>
+
+### B73 Digital Studio
+
+Commercial websites and development work.
+
+</td>
+
+<td>
+
+### Lead Radar
+
+AI-assisted opportunity intelligence.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### HERMES
+
+AI application architecture.
+
+</td>
+
+<td>
+
+### ANUBIS
+
+AI data and model infrastructure.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### B73 Digital Studio
+<br>
 
-Web Development · AI Systems · Automation
+## B73 DIGITAL STUDIO
 
-**https://b73.dev**
+**Web Development · AI Systems · Automation**
+
+<br>
+
+[![B73](https://img.shields.io/badge/b73.dev-A6FF4D?style=for-the-badge&labelColor=0B0B0B)](https://b73.dev)
+
+<br>
+
+`ELAZIĞ / TÜRKİYE`
+
+<br>
 
 </div>
